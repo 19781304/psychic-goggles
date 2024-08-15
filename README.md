@@ -1,2 +1,2 @@
-# psychic-goggles
+# psychic-goggles CONTRIBUTING
 Хочу все знать
